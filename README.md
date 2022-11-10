@@ -9,3 +9,10 @@
 <br/>by using code in jupyter notebook you can do trees like that easily.</p>
 
 ![b_image](https://user-images.githubusercontent.com/91970695/201229260-1293afef-d8ff-41b1-b140-28dd22dade05.jpg)
+
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+ ![binary_Animal_2](https://user-images.githubusercontent.com/91970695/201230227-abcb30b0-5ba1-47c6-8656-cb1f9159830e.jpg) | 
+![dice2](https://user-images.githubusercontent.com/91970695/201230276-b912becd-5975-4aa5-8956-7ac2c3ff8367.jpg)
